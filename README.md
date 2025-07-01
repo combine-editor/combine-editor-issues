@@ -6,9 +6,9 @@ This repository hosts bug reports, feature requests, and other support issues fo
 
 Download on the [App Store](https://apps.apple.com/us/app/combine-editor-git-client/id6744273472).
 
-Submit a [New Issue](https://github.com/combine-editor/combine-editor-issues/issues/new/choose).
+Create a [New Issue](https://github.com/combine-editor/combine-editor-issues/issues/new/choose).
 
-## Before Submitting an Issue
+## Before Creating an Issue
 
 Search existing issues to avoid duplicates. If a similar issue already exists, add relevant details to the existing discussion rather than creating a new issue.
 
