@@ -25,8 +25,12 @@ Create a bug report when an existing feature is not working as intended. Bug rep
 Create a feature request when:
 - No existing feature accomplishes a desired task
 - An existing feature works correctly but could be enhanced or improved
+  
+## General Support  
 
-## General Guidelines
+Create a general support request only when a Bug Report or Feature Request are not applicable. 
+
+## Guidelines
 
 - Keep discussions focused on the specific issue
 - Avoid including personal information in issues
