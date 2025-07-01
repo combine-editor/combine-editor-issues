@@ -55,7 +55,7 @@ body:
       description: Additional information which may help.
       placeholder: Any additional information
     validations:
-      required: true
+      required: false
   - type: checkboxes
     attributes:
       label: Other
