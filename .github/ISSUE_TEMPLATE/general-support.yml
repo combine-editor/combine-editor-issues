@@ -1,0 +1,31 @@
+# Copyright (c) 2025 Margins Technologies LLC.
+
+name: ❓ General Support
+description: Request general support for something other than a Bug Report or Feature Request.
+labels:
+  - question
+  - triage
+body:
+  - type: textarea
+    attributes:
+      label: Description
+      description: A clear and concise description of the support request.
+      placeholder: Describe the issue
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Additional Information
+      description: Additional information which may help.
+      placeholder: Any additional information
+    validations:
+      required: false
+  - type: checkboxes
+    attributes:
+      label: Other
+      options:
+        - label: >
+            I understand that by submitting feedback, I hereby irrevocably assign all intellectual property
+            rights to Margins Technologies LLC (the developer of Combine Editor) and that my feedback may be used
+            without restriction, without compensation to me, and without attribution to me.
+          required: true
