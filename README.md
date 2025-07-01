@@ -28,7 +28,7 @@ Create a feature request when:
   
 ## General Support  
 
-Create a general support request only when a Bug Report or Feature Request are not applicable. 
+Create a general support request only when Bug Reports and Feature Requests are not applicable. 
 
 ## Guidelines
 
