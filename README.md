@@ -4,7 +4,7 @@ Combine Editor is a powerful code editor and file manager with professional Git 
 
 This repository hosts bug reports, feature requests, and other support issues for Combine Editor.
 
-Download it on the [App Store](https://apps.apple.com/us/app/combine-editor-git-client/id6744273472).
+Download on the [App Store](https://apps.apple.com/us/app/combine-editor-git-client/id6744273472).
 
 Submit a [New Issue](https://github.com/combine-editor/combine-editor-issues/issues/new/choose).
 
