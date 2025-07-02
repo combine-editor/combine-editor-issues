@@ -25,7 +25,9 @@ body:
       label: Other
       options:
         - label: >
-            I understand that by submitting feedback, I hereby irrevocably assign all intellectual property
-            rights to Margins Technologies LLC (the developer of Combine Editor) and that my feedback may be used
-            without restriction, without compensation to me, and without attribution to me.
+             By submitting any question, comment, suggestion, idea, feedback, or other information,
+             I agree to assign to Margins Technologies LLC (the developer of Combine Editor) all intellectual 
+             property rights in such Submission. I agree that Margins Technologies LLC shall own this Submission 
+             and be entitled to its unrestricted use and dissemination for any lawful purpose, commercial or 
+             otherwise, without acknowledgment or compensation to me.
           required: true
