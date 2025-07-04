@@ -31,7 +31,7 @@ body:
     attributes:
       label: App Version
       description: The Combine Editor version on which the issue occurred. The app version may be found in the App Data section of Combine Editor Settings.
-      placeholder: ex. 1.0.0 (5)
+      placeholder: ex. 1.0.1 (1)
     validations:
       required: true
   - type: input
