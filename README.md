@@ -12,6 +12,10 @@ Create a [New Issue](https://github.com/combine-editor/combine-editor-issues/iss
 
 Search existing issues to avoid duplicates. If a similar issue already exists, add relevant details to the existing discussion rather than creating a new issue.
 
+## After Creating an Issue
+
+Check back regularly for follow-up questions or status updates. Additional information may be requested to resolve the issue.
+
 ## Bug Reports
 
 Create a bug report when an existing feature is not working as intended. Bug reports include:
