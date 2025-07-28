@@ -1,10 +1,10 @@
-# Combine Editor Issues
+# Combine - Code Editor & Git Client
 
-Combine Editor is a powerful code editor and file manager with professional Git integration, designed exclusively for iPhone and iPad.
+Combine is a powerful code editor and file manager with professional Git integration, designed exclusively for iPhone and iPad.
 
 This repository hosts bug reports, feature requests, and other support issues for Combine Editor.
 
-Download on the [App Store](https://apps.apple.com/us/app/combine-editor-git-client/id6744273472).
+Download on the [App Store](https://apps.apple.com/us/app/combine-code-editor-git/id6744273472).
 
 Create a [New Issue](https://github.com/combine-editor/combine-editor-issues/issues/new/choose).
 
