@@ -2,7 +2,7 @@
 
 Combine is a powerful code editor and file manager with professional Git integration, designed exclusively for iPhone and iPad.
 
-This repository hosts bug reports, feature requests, and other support issues for Combine Editor.
+This repository hosts bug reports, feature requests, and other support issues.
 
 Download on the [App Store](https://apps.apple.com/us/app/combine-code-editor-git/id6744273472).
 
